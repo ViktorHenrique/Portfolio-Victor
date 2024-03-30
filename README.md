@@ -42,12 +42,115 @@ Atualmente sou estudante do 5° semestre de Análise e Desenvolvimento de Sistem
 
 </div>
 
-### Sistema Web para Catálogo de Vagas - 2022-1
+### 2022-1 - Sistema Web para Catálogo de Vagas 
 
 O desafio proposto internamente pela Fatec consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. Durante o desenvolvimento do projeto, também criamos um programa em Python para a raspagem de URLs, garantindo a obtenção precisa e atualizada das informações necessárias para alimentar o sistema.
 
-[Clique aqui](https://github.com/atomofatec/API-FINDAT) para acessar o repositório do projeto
+[Clique aqui](https://github.com/atomofatec/API-FINDAT) para acessar o repositório do projeto.
 
 https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3-8a1f-5c340a6b36bf.mp4
 
 ### Tecnologias utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para a o desenvolvimento do protótipo.  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para o desenvolvimento do código do projeto.  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><b>HTML</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para a estruturação da página web.  
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><b>CSS</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para a estilização da página web.
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para construção de gráficos e hospedagem utilizando Flask. 
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><b>Amazon Web Services</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para a hospedagem da aplicação web. 
+      </li>
+    </ul>
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b></img>
+  </span>
+  <span>
+    <ul>
+      <li>
+        Utilizada para a hospedagem do código. 
+      </li>
+    </ul>
+  </span>
+</div>
+
+### Contribuições pessoais
+
+Nesse projeto fui responsável na estruturação e estilização de algumas páginas utilizando o HTML5 e CSS3, além de colaborar na pesquisa de vagas de empregos e cursos disponíveis ma internet.
+
+### Hard Skills
+
+a
+
+### Soft Skills
+
+a
