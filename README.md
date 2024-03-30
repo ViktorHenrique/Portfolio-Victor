@@ -2,7 +2,7 @@
   
   # Víctor Henrique Teodoro Dias
 
- <img src="foto.jpg" width=200 alt="Foto">
+ <img src="foto.jpg" style="border-radius: 50%" width=200 alt="Foto" >
  
 </div>
 
@@ -145,12 +145,17 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 
 ### Contribuições pessoais
 
-Nesse projeto fui responsável na estruturação e estilização de algumas páginas utilizando o HTML5 e CSS3, além de colaborar na pesquisa de vagas de empregos e cursos disponíveis ma internet.
+Nesse projeto fui responsável na estruturação e estilização de algumas páginas utilizando HTML5 e CSS3, além de colaborar na pesquisa de vagas de empregos e cursos disponíveis na internet.
 
 ### Hard Skills
 
-a
+* Desenvolvimento web utlizando HTML - Realizo com autonomia
+* Estilização de páginas web utilizando CSS - Realizo com autonomia
+* Plotagem de Gráficos com Python - Realizo com auxílio
+* Hospedagem com Python, Flask e AWS - Realizo com auxílio
 
 ### Soft Skills
 
-a
+* <b>Comunicação</b> - Aprimorei minhas habilidades de comunicação ao participar ativamente das discussões durante as reuniões de equipe, promovendo um ambiente colaborativo e facilitando o progresso do projeto de forma eficiente.
+* <b>Proatividade</b> - Identifiquei oportunidades de melhoria no processo de desenvolvimento do projeto e implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
+* <b>Trabalho em equipe</b> - Desenvolvi habilidades ao colaborar de forma eficaz com os membros da equipe, compartilhando ideias e contribuindo para o sucesso do projeto através de uma cooperação harmoniosa e produtiva.
