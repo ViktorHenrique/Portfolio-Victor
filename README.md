@@ -2,13 +2,13 @@
   
   # Víctor Henrique Teodoro Dias
 
- <img src="foto.jpg" style="border-radius: 50%" width=200 alt="Foto" >
+ <img src="foto.jpg" style="border-radius: 50%" width=200 alt="Foto">
  
 </div>
 
 ## Introdução
 
-Atualmente sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas da Fatec Prof. Jessen Vidal - São José dos Campos. Meu primeiro contato com a área da tecnologia veio no Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde realizei o curso de Desenvolvimento de Sistemas
+Atualmente sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas da Fatec Prof. Jessen Vidal - São José dos Campos. Meu primeiro contato com a área da tecnologia veio no Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde realizei o curso de Desenvolvimento de Sistemas. (Texto)
 
 <div align="center">
 
@@ -48,104 +48,84 @@ O desafio proposto internamente pela Fatec consistia na criação de um sistema 
 
 [Clique aqui](https://github.com/atomofatec/API-FINDAT) para acessar o repositório do projeto.
 
+<br>
+
 https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3-8a1f-5c340a6b36bf.mp4
+
+<br>
 
 ### Tecnologias utilizadas
 
 <div>
   <span>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b></img>
+    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para a o desenvolvimento do protótipo.  
-      </li>
-    </ul>
+    Utilizada para o desenvolvimento do protótipo.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b></img>
+    <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para o desenvolvimento do código do projeto.  
-      </li>
-    </ul>
+    Utilizada para o desenvolvimento do código do projeto.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><b>HTML</b></img>
+    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><b>HTML</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para a estruturação da página web.  
-      </li>
-    </ul>
+    Utilizada para a estruturação da página web.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><b>CSS</b></img>
+    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><b>CSS</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para a estilização da página web.
-      </li>
-    </ul>
+    Utilizada para a estilização da página web.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b></img>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para construção de gráficos e hospedagem utilizando Flask. 
-      </li>
-    </ul>
+    Utilizada para construção de gráficos e hospedagem utilizando Flask.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><b>Amazon Web Services</b></img>
+    <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><b>Amazon Web Services</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para a hospedagem da aplicação web. 
-      </li>
-    </ul>
+    Utilizada para a hospedagem da aplicação web.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b></img>
+    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
   </span>
   <span>
-    <ul>
-      <li>
-        Utilizada para a hospedagem do código. 
-      </li>
-    </ul>
+    Utilizada para a hospedagem do código.
   </span>
 </div>
+
+<br>
 
 ### Contribuições pessoais
 
 Nesse projeto fui responsável na estruturação e estilização de algumas páginas utilizando HTML5 e CSS3, além de colaborar na pesquisa de vagas de empregos e cursos disponíveis na internet.
+
+<br>
 
 ### Hard Skills
 
@@ -154,8 +134,10 @@ Nesse projeto fui responsável na estruturação e estilização de algumas pág
 * Plotagem de Gráficos com Python - Realizo com auxílio
 * Hospedagem com Python, Flask e AWS - Realizo com auxílio
 
+<br>
+
 ### Soft Skills
 
 * <b>Comunicação</b> - Aprimorei minhas habilidades de comunicação ao participar ativamente das discussões durante as reuniões de equipe, promovendo um ambiente colaborativo e facilitando o progresso do projeto de forma eficiente.
-* <b>Proatividade</b> - Identifiquei oportunidades de melhoria no processo de desenvolvimento do projeto e implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
+* <b>Proatividade</b> - Identifiquei oportunidades de melhoria no processo de desenvolvimento do projeto e ajudei a implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
 * <b>Trabalho em equipe</b> - Desenvolvi habilidades ao colaborar de forma eficaz com os membros da equipe, compartilhando ideias e contribuindo para o sucesso do projeto através de uma cooperação harmoniosa e produtiva.
