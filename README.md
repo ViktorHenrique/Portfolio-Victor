@@ -97,7 +97,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
   </span>
   <span>
-    Utilizada para construção de gráficos e hospedagem utilizando Flask.
+    Utilizada para construção de gráficos e hospedagem por meio do Flask.
   </span>
 </div>
 <br>
