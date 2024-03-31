@@ -2,13 +2,17 @@
   
   # Víctor Henrique Teodoro Dias
 
- <img src="foto.jpg" style="border-radius: 50%" width=200 alt="Foto">
+ <img src="foto.jpeg" style="border-radius: 50%" width=200 alt="Foto">
  
 </div>
 
 ## Introdução
 
-Atualmente sou estudante do 5° semestre de Análise e Desenvolvimento de Sistemas da Fatec Prof. Jessen Vidal - São José dos Campos. Meu primeiro contato com a área da tecnologia veio no Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde realizei o curso de Desenvolvimento de Sistemas. (Texto)
+Atualmente, sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, localizada em São José dos Campos. Desde o ensino fundamental, despertou minha paixão pela tecnologia e sua aplicação prática, especialmente no âmbito da criação de websites, softwares e jogos.
+
+Realizei o Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde me matriculei no curso integrado de Desenvolvimento de Sistemas. Foi lá que tive meu primeiro contato com HTML, CSS, banco de dados e arduíno.
+
+Desde então, tenho me dedicado ao constante aprimoramento no campo da tecnologia da informação. Esse período de aprendizado não só enriqueceu meu conhecimento em programação, mas também desenvolveu minhas soft skills, como capacidade de comunicação, trabalho em equipe e resolução de problemas, reconhecendo sua importância para uma carreira de sucesso. Assim, mantenho-me engajado em um processo contínuo de crescimento, sempre em busca de novos desafios e oportunidades para evoluir no  cenário tecnológico.
 
 <div align="center">
 
@@ -42,7 +46,7 @@ Atualmente sou estudante do 5° semestre de Análise e Desenvolvimento de Sistem
 
 </div>
 
-### 2022-1 - Sistema Web para Catálogo de Vagas 
+### Em 2022-1 - Sistema Web para Catálogo de Vagas 
 
 O desafio proposto internamente pela Fatec consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. Durante o desenvolvimento do projeto, também criamos um programa em Python para a raspagem de URLs, garantindo a obtenção precisa e atualizada das informações necessárias para alimentar o sistema.
 
