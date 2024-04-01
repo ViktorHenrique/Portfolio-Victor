@@ -2,7 +2,7 @@
   
   # Víctor Henrique Teodoro Dias
 
- <img src="foto.jpeg" style="border-radius: 50%" width=200 alt="Foto">
+ <img src="images/foto.png" width=250 alt="Foto">
  
 </div>
 
