@@ -48,7 +48,7 @@ Desde então, tenho me dedicado ao constante aprimoramento no campo da tecnologi
 
 ### Em 2022-1 - Sistema Web para Catálogo de Vagas 
 
-O desafio proposto internamente pela Fatec consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. Durante o desenvolvimento do projeto, também criamos um programa em Python para a raspagem de URLs, garantindo a obtenção precisa e atualizada das informações necessárias para alimentar o sistema.
+O desafio proposto internamente pela Fatec consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. O desenvolvimento do projeto foi documentado no GitHub, incluindo todos os procedimentos essenciais para garantir a satisfação do cliente. Isso facilita o acesso a todas as informações relevantes de forma clara e direta.
 
 [Clique aqui](https://github.com/atomofatec/API-FINDAT) para acessar o repositório do projeto.
 
