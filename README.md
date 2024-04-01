@@ -12,11 +12,25 @@ Atualmente, sou estudante do 5° semestre do curso de Análise e Desenvolvimento
 
 Realizei o Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde me matriculei no curso integrado de Desenvolvimento de Sistemas. Foi lá que tive meu primeiro contato com HTML, CSS, banco de dados e arduíno.
 
-Desde então, tenho me dedicado ao constante aprimoramento no campo da tecnologia da informação. Esse período de aprendizado não só enriqueceu meu conhecimento em programação, mas também desenvolveu minhas soft skills, como capacidade de comunicação, trabalho em equipe e resolução de problemas, reconhecendo sua importância para uma carreira de sucesso. Assim, mantenho-me engajado em um processo contínuo de crescimento, sempre em busca de novos desafios e oportunidades para evoluir no  cenário tecnológico.
+Desde aquele momento, tenho direcionado meus esforços para aprimorar minhas habilidades no desenvolvimento de back-end, explorando linguagens e frameworks como Python, JavaScript e Node.js, além de aprofundar meu conhecimento em banco de dados relacionais. Esse período de aprendizado não só enriqueceu meu conhecimento em programação, mas também desenvolveu minhas soft skills, como capacidade de comunicação, trabalho em equipe e resolução de problemas, reconhecendo sua importância para uma carreira de sucesso. Assim, mantenho-me engajado em um processo contínuo de crescimento, sempre em busca de novos desafios e oportunidades para evoluir no  cenário tecnológico.
+
+<br>
 
 <div align="center">
+  
+## Cursos
 
-### Contatos
+ |   Curso  |    Plataforma de Ensino    |
+ | :------:      | :------: |
+ | Introdução ao MongoDB - Cursando | MongoDB |
+ | Curso Completo do Desenvolvedor NodeJS e MongoDB - Cursando | Udemy |
+ | Node.js do Zero a Maestria com diversos ProjetosB - Cursando | Udemy |
+ | [Modelagem de Dados por Bóson treinamentos](https://cursacertificates.s3.amazonaws.com/cert_89167d295d9e91b6cbeb5c35f844bdc0.png?time=1711993173) | Cursa |
+ | [MySql por Curso em Vídeo](https://cursacertificates.s3.amazonaws.com/cert_cf5d9d74bf54a0d2e47819ab6b862c5c.png?time=1711993234) | Cursa |
+
+<br>
+
+## Contatos
 
 <a href = "https://www.linkedin.com/in/víctor-henrique-teodoro-641417265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "https://github.com/ViktorHenrique"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
