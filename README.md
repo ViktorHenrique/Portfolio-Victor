@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 
 <div>
   <span>
-    <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+    <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
   </span>
   <span>
     Utilizada para o desenvolvimento do protótipo.
@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 <br>
 <div>
   <span>
-    <img align="center" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
+    <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
   </span>
   <span>
     Utilizada para o desenvolvimento do código do projeto.
@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 <br>
 <div>
   <span>
-    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><b>HTML</b> - </img>
+    <img align="center" alt="HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><b>HTML</b> - </img>
   </span>
   <span>
     Utilizada para a estruturação da página web.
@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 <br>
 <div>
   <span>
-    <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><b>CSS</b> - </img>
+    <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><b>CSS</b> - </img>
   </span>
   <span>
     Utilizada para a estilização da página web.
@@ -98,7 +98,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 <br>
 <div>
   <span>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
+    <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
   </span>
   <span>
     Utilizada para construção de gráficos e hospedagem por meio do Flask.
@@ -107,7 +107,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 <br>
 <div>
   <span>
-    <img align="center" alt="Amazon Web Services" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><b>Amazon Web Services</b> - </img>
+    <img align="center" alt="Amazon Web Services" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><b>Amazon Web Services</b> - </img>
   </span>
   <span>
     Utilizada para a hospedagem da aplicação web.
@@ -116,7 +116,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 <br>
 <div>
   <span>
-    <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
+    <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
   </span>
   <span>
     Utilizada para a hospedagem do código.
