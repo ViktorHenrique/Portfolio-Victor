@@ -159,3 +159,314 @@ Nesse projeto fui responsável na estruturação e estilização de algumas pág
 * <b>Comunicação</b> - Aprimorei minhas habilidades de comunicação ao participar ativamente das discussões durante as reuniões de equipe, promovendo um ambiente colaborativo e facilitando o progresso do projeto de forma eficiente.
 * <b>Proatividade</b> - Identifiquei oportunidades de melhoria no processo de desenvolvimento do projeto e ajudei a implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
 * <b>Trabalho em equipe</b> - Desenvolvi habilidades ao colaborar de forma eficaz com os membros da equipe, compartilhando ideias e contribuindo para o sucesso do projeto através de uma cooperação harmoniosa e produtiva.
+
+<br>
+<hr>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Em 2022-2 - Sistema de Conciliação Financeira 
+
+Texto
+
+[Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
+
+<br>
+
+Vídeo
+
+<br>
+
+### Tecnologias utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do protótipo.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"><b>Java</b> - </img>
+  </span>
+  <span>
+    Utilizada como linguagem de programação para o desenvolvimento do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"><b> MySQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="Apache NetBeans" height="40" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"><b> Apache NetBeans</b> - </img>
+  </span>
+  <span>
+    Utilizada como IDE para o desenvolvimento.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
+  </span>
+  <span>
+    Utilizada para a hospedagem do código.
+  </span>
+</div>
+
+<br>
+
+### Contribuições pessoais
+
+Texto
+
+<br>
+
+### Hard Skills
+
+* Desenvolvimento utlizando a linguagem Java - Realizo com auxílio
+* Modelagem do banco de dados utilizando MySQL - Realizo com autonomia
+
+<br>
+
+### Soft Skills
+
+* <b>Texto</b> - Texto.
+* <b>Texto</b> - Texto.
+* <b>Texto</b> - Texto.
+
+<br>
+<hr>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Em 2023-1 - Sistema de Gerenciamento de Usuários
+
+Texto
+
+[Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
+
+<br>
+
+Vídeo
+
+<br>
+
+### Tecnologias utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do protótipo.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do código do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"><b>JavaScript</b> - </img>
+  </span>
+  <span>
+    Utilizada como linguagem de programação para o desenvolvimento do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
+  </span>
+  <span>
+    Utilizada para a estruturação do frontend.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
+  </span>
+  <span>
+    Utilizada para a hospedagem do código.
+  </span>
+</div>
+
+<br>
+
+### Contribuições pessoais
+
+Texto
+
+<br>
+
+### Hard Skills
+
+* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
+* Elaboração do frontend utilizando ReactJS - Realizo com autonomia
+* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
+
+<br>
+
+### Soft Skills
+
+* <b>Texto</b> - Texto.
+* <b>Texto</b> - Texto.
+* <b>Texto</b> - Texto.
+
+<br>
+<hr>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Em 2023-2 - Sistema de Transação de Crédito para Coleta de Óleo 
+
+Texto
+
+[Clique aqui](https://github.com/atomofatec/API-GREENNEAT) para acessar o repositório do projeto.
+
+<br>
+
+Vídeo
+
+<br>
+
+### Tecnologias utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do protótipo.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do código do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"><b>JavaScript</b> - </img>
+  </span>
+  <span>
+    Utilizada como linguagem de programação para o desenvolvimento do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
+  </span>
+  <span>
+    Utilizada para a estruturação do frontend.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
+  </span>
+  <span>
+    Utilizada para a hospedagem do código.
+  </span>
+</div>
+
+<br>
+
+### Contribuições pessoais
+
+Texto
+
+<br>
+
+### Hard Skills
+
+* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
+* Elaboração do frontend utilizando ReactJS - Realizo com autonomia
+* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
+
+<br>
+
+### Soft Skills
+
+* <b>Texto</b> - Texto.
+* <b>Texto</b> - Texto.
+* <b>Texto</b> - Texto.
