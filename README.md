@@ -320,7 +320,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 
 ### Contribuições pessoais
 
-Texto
+Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o backend quanto para o frontend da aplicação. No backend, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No frontend, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
 
 <br>
 
@@ -414,7 +414,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 
 ### Contribuições pessoais
 
-Texto
+Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços no backend da aplicação. Fui responsável por criar e implementar a lógica para as funcionalidades relacionadas ao sistema de carteiras, incluindo a gestão de solicitações de retirada de óleo, consultas de saldo e transações de crédito.
 
 <br>
 
