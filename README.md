@@ -164,28 +164,15 @@ Nesse projeto fui responsável na estruturação e estilização de algumas pág
 <hr>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Em 2022-2 - Sistema de Conciliação Financeira 
 
-Texto
+O projeto integrador do semestre envolveu uma parceria com a empresa Track Cash, com o objetivo principal de desenvolver uma aplicação desktop voltada para a integração de registros de vendas de diversos canais, sejam eles lojas físicas ou online. O propósito era fornecer aos clientes uma plataforma que lhes permitisse interagir de forma eficiente com as informações de vendas provenientes desses canais.
 
 [Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
 
 <br>
 
-Vídeo
+https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532-8d8d-541e3c66117f.mp4
 
 <br>
 
@@ -261,28 +248,15 @@ Texto
 <hr>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Em 2023-1 - Sistema de Gerenciamento de Usuários
 
-Texto
+O projeto integrador do semestre envolveu uma parceria com a empresa Visiona, com o objetivo de desenvolver um Sistema de Gerenciamento de Usuários baseado em tecnologia de micro serviços. A proposta central consistia em criar uma plataforma que oferecesse funcionalidades de gerenciamento de usuários e serviços de autenticação/autorização utilizando microserviços e integrando-se a uma esteira de CI/CD. Foi priorizado o uso de boas práticas de desenvolvimento orientado a objetos, como SOLID e Clean Code, para garantir a qualidade do código.
 
 [Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
 
 <br>
 
-Vídeo
+https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e-4567-852b-1da5919c46f3
 
 <br>
 
@@ -368,19 +342,6 @@ Texto
 <hr>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Em 2023-2 - Sistema de Transação de Crédito para Coleta de Óleo 
 
 Texto
@@ -389,7 +350,7 @@ Texto
 
 <br>
 
-Vídeo
+https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c-4341-94df-dd369c1530c6
 
 <br>
 
