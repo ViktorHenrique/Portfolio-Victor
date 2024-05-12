@@ -168,7 +168,7 @@ Nesse projeto fui responsável na estruturação e estilização de algumas pág
 
 O projeto integrador do semestre envolveu uma parceria com a empresa Track Cash, com o objetivo principal de desenvolver uma aplicação desktop voltada para a integração de registros de vendas de diversos canais, sejam eles lojas físicas ou online. O propósito era fornecer aos clientes uma plataforma que lhes permitisse interagir de forma eficiente com as informações de vendas provenientes desses canais.
 
-[Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
+[Clique aqui](https://github.com/atomofatec/API-TRACKCASH) para acessar o repositório do projeto.
 
 <br>
 
