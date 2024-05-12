@@ -227,7 +227,7 @@ https://user-images.githubusercontent.com/100942191/204174733-103fc2a2-7044-4532
 
 ### Contribuições pessoais
 
-Texto
+Durante este projeto, ocupei o cargo de Scrum Master, assegurando a coesão da equipe em relação aos objetivos e prazos estabelecidos, além de coordenar o planejamento e a entrega das sprints, juntamente com a documentação correspondente. Concentrei-me em eliminar quaisquer obstáculos que pudessem afetar o avanço do projeto, promovendo a colaboração e a comunicação eficaz entre os membros da equipe.
 
 <br>
 
@@ -240,9 +240,9 @@ Texto
 
 ### Soft Skills
 
-* <b>Texto</b> - Texto.
-* <b>Texto</b> - Texto.
-* <b>Texto</b> - Texto.
+* <b>Liderança</b> - Inicialmente, enfrentei desafios ao assumir o papel de Scrum Master, especialmente no que diz respeito à liderança eficaz da equipe. No entanto, ao longo do projeto, desenvolvi minhas habilidades de liderança, aprendendo a motivar e orientar os membros da equipe em direção aos objetivos do projeto.
+* <b>Organização</b> - Eu me empenhei em garantir que as tarefas fossem distribuídas de forma equitativa, priorizando as atividades de acordo com as necessidades do projeto e garantindo o cumprimento dos prazos estabelecidos.
+* <b>Trabalho sob pressão</b> - Enfrentei situações desafiadoras que exigiam tomar decisões rápidas e eficazes sob pressão. Lidar com a complexidade do projeto e os prazos das sprints foi um desafio constante. Esta experiência me permitiu desenvolver uma maior resiliência e habilidade para trabalhar sob pressão.
 
 <br>
 <hr>
@@ -334,9 +334,9 @@ Texto
 
 ### Soft Skills
 
-* <b>Texto</b> - Texto.
-* <b>Texto</b> - Texto.
-* <b>Texto</b> - Texto.
+* <b>Colaboração</b> - Priorizei a colaboração com minha equipe, compartilhando conhecimentos e ideias para superar desafios técnicos e alcançar nossos objetivos de projeto de forma eficiente.
+* <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
+* <b>Resiliência</b> - Enfrentei desafios com determinação e positividade, adaptando-me às mudanças e persistindo na busca por soluções mesmo diante de contratempos.
 
 <br>
 <hr>
@@ -344,7 +344,7 @@ Texto
 
 ### Em 2023-2 - Sistema de Transação de Crédito para Coleta de Óleo 
 
-Texto
+Durante o quarto semestre, trabalhamos em um projeto de grande relevância, o sistema circular de produção de saneantes a partir de óleo recuperado. Em parceria com a Greenneat, nosso objetivo era desenvolver uma plataforma capaz de gerenciar créditos concedidos aos parceiros da Greenneat, responsáveis pela coleta em estabelecimentos cadastrados. Esses créditos, posteriormente utilizados na aquisição de saneantes na loja virtual, visavam estimular a reciclagem do óleo de fritura usado. A proposta central era incentivar práticas sustentáveis, contribuindo para um ambiente mais saudável e consciente.
 
 [Clique aqui](https://github.com/atomofatec/API-GREENNEAT) para acessar o repositório do projeto.
 
@@ -428,6 +428,6 @@ Texto
 
 ### Soft Skills
 
-* <b>Texto</b> - Texto.
-* <b>Texto</b> - Texto.
-* <b>Texto</b> - Texto.
+* <b>Proatividade</b> - Demonstrei proatividade ao assumir a iniciativa de buscar soluções e contribuir ativamente para o avanço do projeto. Antecipei-me às necessidades da equipe e tomei medidas para resolver problemas antes mesmo que surgissem, garantindo um fluxo contínuo de progresso no desenvolvimento.
+* <b>Flexibilidade</b> - Em um ambiente dinâmico de projeto, mostrei-me flexível diante das mudanças de prioridades e metodologias. Adaptei-me rapidamente a novos desafios e situações, ajustando minha abordagem e colaborando efetivamente para garantir o progresso contínuo do projeto.
+* <b>Organização</b> - Mantive-me organizado ao longo do projeto, gerenciando eficientemente minhas tarefas e recursos. Utilizei ferramentas de planejamento e técnicas de gestão do tempo para garantir que as atividades fossem concluídas dentro dos prazos estabelecidos, contribuindo assim para o sucesso geral do projeto.
