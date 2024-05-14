@@ -12,7 +12,7 @@ Atualmente, sou estudante do 5° semestre do curso de Análise e Desenvolvimento
 
 Realizei o Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde me matriculei no curso integrado de Desenvolvimento de Sistemas. Foi lá que tive meu primeiro contato com HTML, CSS, banco de dados e arduíno.
 
-Desde aquele momento, tenho direcionado meus esforços para aprimorar minhas habilidades no desenvolvimento de back-end, explorando linguagens e frameworks como Python, JavaScript e Node.js, além de aprofundar meu conhecimento em banco de dados relacionais. Esse período de aprendizado não só enriqueceu meu conhecimento em programação, mas também desenvolveu minhas soft skills, como capacidade de comunicação, trabalho em equipe e resolução de problemas, reconhecendo sua importância para uma carreira de sucesso. Assim, mantenho-me engajado em um processo contínuo de crescimento, sempre em busca de novos desafios e oportunidades para evoluir no  cenário tecnológico.
+Desde aquele momento, tenho direcionado meus esforços para aprimorar minhas habilidades no desenvolvimento back-end, explorando linguagens e frameworks como Python e Node.js, além de aprofundar meu conhecimento em banco de dados relacionais. Esse período de aprendizado não só enriqueceu meu conhecimento em programação, mas também desenvolveu minhas soft skills, como capacidade de comunicação, trabalho em equipe e resolução de problemas, reconhecendo sua importância para uma carreira de sucesso. Assim, mantenho-me engajado em um processo contínuo de crescimento, sempre em busca de novos desafios e oportunidades para evoluir no  cenário tecnológico.
 
 <br>
 
@@ -336,7 +336,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o backen
 
 * <b>Colaboração</b> - Priorizei a colaboração com minha equipe, compartilhando conhecimentos e ideias para superar desafios técnicos e alcançar nossos objetivos de projeto de forma eficiente.
 * <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
-* <b>Resiliência</b> - Enfrentei desafios com determinação e positividade, adaptando-me às mudanças e persistindo na busca por soluções mesmo diante de contratempos.
+* <b>Resiliência</b> - Enfrentamos inicialmente dificuldades para nos adaptar às novas tecnologias, porém, mantivemos determinação e positividade, persistindo na busca por soluções mesmo diante dos contratempos.
 
 <br>
 <hr>
