@@ -294,7 +294,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
     <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
   </span>
   <span>
-    Utilizada para a estruturação do frontend.
+    Utilizada para a estruturação do front-end.
   </span>
 </div>
 <br>
@@ -320,14 +320,14 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 
 ### Contribuições pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o backend quanto para o frontend da aplicação. No backend, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No frontend, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
+Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
 
 <br>
 
 ### Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do frontend utilizando ReactJS - Realizo com autonomia
+* Elaboração do front-end utilizando ReactJS - Realizo com autonomia
 * Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 
 <br>
@@ -388,7 +388,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
     <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
   </span>
   <span>
-    Utilizada para a estruturação do frontend.
+    Utilizada para a estruturação do front-end.
   </span>
 </div>
 <br>
@@ -414,14 +414,14 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 
 ### Contribuições pessoais
 
-Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços no backend da aplicação. Fui responsável por criar e implementar a lógica para as funcionalidades relacionadas ao sistema de carteiras, incluindo a gestão de solicitações de retirada de óleo, consultas de saldo e transações de crédito.
+Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços no back-end da aplicação. Fui responsável por criar e implementar a lógica para as funcionalidades relacionadas ao sistema de carteiras, incluindo a gestão de solicitações de retirada de óleo, consultas de saldo e transações de crédito.
 
 <br>
 
 ### Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do frontend utilizando ReactJS - Realizo com autonomia
+* Elaboração do front-end utilizando ReactJS - Realizo com autonomia
 * Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 
 <br>
@@ -431,3 +431,107 @@ Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços
 * <b>Proatividade</b> - Demonstrei proatividade ao assumir a iniciativa de buscar soluções e contribuir ativamente para o avanço do projeto. Antecipei-me às necessidades da equipe e tomei medidas para resolver problemas antes mesmo que surgissem, garantindo um fluxo contínuo de progresso no desenvolvimento.
 * <b>Flexibilidade</b> - Em um ambiente dinâmico de projeto, mostrei-me flexível diante das mudanças de prioridades e metodologias. Adaptei-me rapidamente a novos desafios e situações, ajustando minha abordagem e colaborando efetivamente para garantir o progresso contínuo do projeto.
 * <b>Organização</b> - Mantive-me organizado ao longo do projeto, gerenciando eficientemente minhas tarefas e recursos. Utilizei ferramentas de planejamento e técnicas de gestão do tempo para garantir que as atividades fossem concluídas dentro dos prazos estabelecidos, contribuindo assim para o sucesso geral do projeto.
+
+<br>
+<hr>
+<br>
+
+### Em 2024-1 - Sistema de Gerenciamento de Parceiros
+
+Neste projeto, a empresa Oracle propôs o desenvolvimento de uma plataforma mobile, um sistema de gestão de parceiros. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o progresso das atividades e fornecer relatórios detalhados.
+
+[Clique aqui](https://github.com/atomofatec/API-ORACLE) para acessar o repositório do projeto.
+
+<br>
+
+https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e-4c50-ba11-82d906f48f33
+
+<br>
+
+### Tecnologias utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do protótipo.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do código do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"><b>JavaScript</b> - </img>
+  </span>
+  <span>
+    Utilizada como linguagem de programação para o desenvolvimento do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
+  </span>
+  <span>
+    Utilizada para a estruturação do front-end.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"><b>MongoDB</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
+  </span>
+  <span>
+    Utilizada para a hospedagem do código.
+  </span>
+</div>
+
+<br>
+
+### Contribuições pessoais
+
+Durante o desenvolvimento deste projeto, concentrei minhas contribuições no back-end, desempenhando um papel crucial em várias funcionalidades. Desenvolvi o sistema de cadastro de administradores e funcionários, assegurando o gerenciamento eficiente de usuários. Criei o sistema de retorno das expertises referentes à Track escolhida, permitindo a exibição correta dos dados. Implementei o sistema de exclusão de parceiros com delete em cascata, garantindo a integridade dos dados. Também colaborei no gerenciamento de parceiros, facilitando a atualização das informações. Minhas contribuições integraram efetivamente as diferentes partes do sistema, garantindo sua coesão, segurança e funcionalidade.
+
+<br>
+
+### Hard Skills
+
+* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
+* Elaboração do front-end utilizando ReactJS - Realizo com autonomia
+* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
+* Modelagem do banco de dados utilizando MongoDB - Realizo com auxílio
+
+<br>
+
+### Soft Skills
+
+* <b>Trabalho em equipe</b> - Senti mais liberdade e facilidade para trabalhar com minha equipe. Isso resultou em uma maior sinergia e produtividade durante o desenvolvimento do projeto.
+* <b>Adaptabilidade</b> - No início, a equipe encontrou dificuldades para entender o projeto e as funcionalidades essenciais do sistema. Além disso, o cliente solicitou alterações e reestruturações em algumas funções. Ao longo das sprints, tivemos que nos reorganizar, identificar os problemas e desenvolver soluções de maneira correta. Nossa capacidade de adaptação foi crucial para superar os desafios e manter o progresso contínuo.
+* <b>Proatividade</b> - Desenvolvi minhas tarefas com maior eficiência e facilidade devido à melhoria nos meus estudos. Além disso, ajudei meus companheiros de equipe sempre que necessário, garantindo que todos alcançassem seus objetivos e que o projeto fosse concluído com sucesso.
