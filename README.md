@@ -242,7 +242,7 @@ Durante este projeto, ocupei o cargo de Scrum Master, assegurando a coesão da e
 
 * <b>Liderança</b> - Inicialmente, enfrentei desafios ao assumir o papel de Scrum Master, especialmente no que diz respeito à liderança eficaz da equipe. No entanto, ao longo do projeto, desenvolvi minhas habilidades de liderança, aprendendo a motivar e orientar os membros da equipe em direção aos objetivos do projeto.
 * <b>Organização</b> - Eu me empenhei em garantir que as tarefas fossem distribuídas de forma equitativa, priorizando as atividades de acordo com as necessidades do projeto e garantindo o cumprimento dos prazos estabelecidos.
-* <b>Trabalho sob pressão</b> - Enfrentei situações desafiadoras que exigiam tomar decisões rápidas e eficazes sob pressão. Lidar com a complexidade do projeto e os prazos das sprints foi um desafio constante. Esta experiência me permitiu desenvolver uma maior resiliência e habilidade para trabalhar sob pressão.
+* <b>Trabalho sob pressão</b> - Enfrentei situações desafiadoras que exigiam tomar decisões rápidas e eficazes sob pressão. Nossa equipe sentiu dificuldades ao trabalhar com a linguagem Java e lidar com a complexidade do projeto e os prazos das sprints foi um desafio constante. Esta experiência me permitiu desenvolver uma maior resiliência e habilidade para trabalhar sob pressão.
 
 <br>
 <hr>
@@ -291,7 +291,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 <br>
 <div>
   <span>
-    <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
+    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
   </span>
   <span>
     Utilizada para a estruturação do front-end.
@@ -320,23 +320,23 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/e5930f16-666e
 
 ### Contribuições pessoais
 
-Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
+Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-end quanto para o front-end da aplicação. No back-end, desempenhei um papel ativo em tarefas relacionadas à exibição de informações, como a configuração e o gerenciamento do registro de usuários utilizando o JavaScript. Além disso, trabalhei na implementação de funcionalidades para proporcionar uma experiência de usuário fluida e intuitiva. No front-end utilizei o React Native, participei da estilização da aplicação e assegurei sua responsividade. Ao colaborar em ambas as áreas, integrei efetivamente as diferentes partes do sistema, garantindo sua coesão como um todo.
 
 <br>
 
 ### Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando ReactJS - Realizo com autonomia
+* Elaboração do front-end utilizando React Native - Realizo com autonomia
 * Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 
 <br>
 
 ### Soft Skills
 
-* <b>Colaboração</b> - Priorizei a colaboração com minha equipe, compartilhando conhecimentos e ideias para superar desafios técnicos e alcançar nossos objetivos de projeto de forma eficiente.
+* <b>Colaboração</b> - Priorizei a colaboração com minha equipe, compartilhando conhecimentos e ideias para superar desafios técnicos relacionados principalmente a responsividade e alcançamos nossos objetivos de projeto de forma eficiente.
 * <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
-* <b>Resiliência</b> - Enfrentamos inicialmente dificuldades para nos adaptar às novas tecnologias, porém, mantivemos determinação e positividade, persistindo na busca por soluções mesmo diante dos contratempos.
+* <b>Resiliência</b> -  Inicialmente, enfrentei dificuldades para me adaptar à linguagem JavaScript. Porém, mantive determinação e, com o aumento dos estudos, persisti na busca por soluções, mesmo diante dos contratempos.
 
 <br>
 <hr>
@@ -385,7 +385,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 <br>
 <div>
   <span>
-    <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
+    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
   </span>
   <span>
     Utilizada para a estruturação do front-end.
@@ -421,15 +421,15 @@ Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços
 ### Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando ReactJS - Realizo com autonomia
+* Elaboração do front-end utilizando React Native - Realizo com autonomia
 * Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 
 <br>
 
 ### Soft Skills
 
-* <b>Proatividade</b> - Demonstrei proatividade ao assumir a iniciativa de buscar soluções e contribuir ativamente para o avanço do projeto. Antecipei-me às necessidades da equipe e tomei medidas para resolver problemas antes mesmo que surgissem, garantindo um fluxo contínuo de progresso no desenvolvimento.
-* <b>Flexibilidade</b> - Em um ambiente dinâmico de projeto, mostrei-me flexível diante das mudanças de prioridades e metodologias. Adaptei-me rapidamente a novos desafios e situações, ajustando minha abordagem e colaborando efetivamente para garantir o progresso contínuo do projeto.
+* <b>Proatividade</b> - Demonstrei proatividade ao assumir a iniciativa de buscar soluções relacionadas principalmente ao sistema de transação e contribui ativamente para o avanço do projeto.
+* <b>Flexibilidade</b> - Em um ambiente dinâmico de projeto, mostrei-me flexível diante das mudanças de prioridades e metodologias. Os diferentes pontos de vista da equipe causou alguns conflitos internos e tive que me adaptar rapidamente a novos desafios e situações, ajustando minha abordagem e colaborando efetivamente para garantir o progresso contínuo do projeto.
 * <b>Organização</b> - Mantive-me organizado ao longo do projeto, gerenciando eficientemente minhas tarefas e recursos. Utilizei ferramentas de planejamento e técnicas de gestão do tempo para garantir que as atividades fossem concluídas dentro dos prazos estabelecidos, contribuindo assim para o sucesso geral do projeto.
 
 <br>
@@ -479,7 +479,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 <br>
 <div>
   <span>
-    <img align="center" alt="ReactJS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>ReactJS</b> - </img>
+    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
   </span>
   <span>
     Utilizada para a estruturação do front-end.
@@ -517,14 +517,14 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/6712d4d8-ed5e
 
 ### Contribuições pessoais
 
-Durante o desenvolvimento deste projeto, concentrei minhas contribuições no back-end, desempenhando um papel crucial em várias funcionalidades. Desenvolvi o sistema de cadastro de administradores e funcionários, assegurando o gerenciamento eficiente de usuários. Criei o sistema de retorno das expertises referentes à Track escolhida, permitindo a exibição correta dos dados. Implementei o sistema de exclusão de parceiros com delete em cascata, garantindo a integridade dos dados. Também colaborei no gerenciamento de parceiros, facilitando a atualização das informações. Minhas contribuições integraram efetivamente as diferentes partes do sistema, garantindo sua coesão, segurança e funcionalidade.
+Durante o desenvolvimento deste projeto, concentrei minhas contribuições no back-end utilizando o JavaScript, desempenhando um papel crucial em várias funcionalidades. Desenvolvi o sistema de cadastro de administradores e funcionários, assegurando o gerenciamento eficiente de usuários. Criei o sistema de retorno das expertises referentes à Track escolhida, permitindo a exibição correta dos dados. Implementei o sistema de exclusão de parceiros com delete em cascata, garantindo a integridade dos dados. Também colaborei no gerenciamento de parceiros, facilitando a atualização das informações. Minhas contribuições integraram efetivamente as diferentes partes do sistema, garantindo sua coesão, segurança e funcionalidade.
 
 <br>
 
 ### Hard Skills
 
 * Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando ReactJS - Realizo com autonomia
+* Elaboração do front-end utilizando React Native - Realizo com autonomia
 * Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
 * Modelagem do banco de dados utilizando MongoDB - Realizo com auxílio
 
@@ -533,5 +533,5 @@ Durante o desenvolvimento deste projeto, concentrei minhas contribuições no ba
 ### Soft Skills
 
 * <b>Trabalho em equipe</b> - Senti mais liberdade e facilidade para trabalhar com minha equipe. Isso resultou em uma maior sinergia e produtividade durante o desenvolvimento do projeto.
-* <b>Adaptabilidade</b> - No início, a equipe encontrou dificuldades para entender o projeto e as funcionalidades essenciais do sistema. Além disso, o cliente solicitou alterações e reestruturações em algumas funções. Ao longo das sprints, tivemos que nos reorganizar, identificar os problemas e desenvolver soluções de maneira correta. Nossa capacidade de adaptação foi crucial para superar os desafios e manter o progresso contínuo.
+* <b>Adaptabilidade</b> - No início, a equipe encontrou dificuldades para entender o projeto e as funcionalidades essenciais do sistema. Além disso, o cliente solicitou alterações e reestruturações em algumas funções. Ao longo das sprints, tivemos que nos reorganizar, identificar os problemas e desenvolver soluções de maneira correta. Nossa capacidade de adaptação foi crucial para superar esses desafios e manter o progresso contínuo.
 * <b>Proatividade</b> - Desenvolvi minhas tarefas com maior eficiência e facilidade devido à melhoria nos meus estudos. Além disso, ajudei meus companheiros de equipe sempre que necessário, garantindo que todos alcançassem seus objetivos e que o projeto fosse concluído com sucesso.
