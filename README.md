@@ -242,7 +242,7 @@ Durante este projeto, ocupei o cargo de Scrum Master, assegurando a coesão da e
 
 * <b>Liderança</b> - Inicialmente, enfrentei desafios ao assumir o papel de Scrum Master, especialmente no que diz respeito à liderança eficaz da equipe. No entanto, ao longo do projeto, desenvolvi minhas habilidades de liderança, aprendendo a motivar e orientar os membros da equipe em direção aos objetivos do projeto.
 * <b>Organização</b> - Eu me empenhei em garantir que as tarefas fossem distribuídas de forma equitativa, priorizando as atividades de acordo com as necessidades do projeto e garantindo o cumprimento dos prazos estabelecidos.
-* <b>Trabalho sob pressão</b> - Enfrentei situações desafiadoras que exigiam tomar decisões rápidas e eficazes sob pressão. Nossa equipe sentiu dificuldades ao trabalhar com a linguagem Java e lidar com a complexidade do projeto e os prazos das sprints foi um desafio constante. Esta experiência me permitiu desenvolver uma maior resiliência e habilidade para trabalhar sob pressão.
+* <b>Trabalho sob pressão</b> - Enfrentei situações desafiadoras que exigiam tomar decisões rápidas e eficazes sob pressão em relação a trabalhar com a linguagem Java e lidar com a complexidade do projeto e os prazos das sprints foi um desafio constante. Também tive meu primeiro contato com banco de dados na prática e aprendi a usá-lo. Esta experiência me permitiu desenvolver uma maior resiliência e habilidade para trabalhar sob pressão.
 
 <br>
 <hr>
