@@ -2,7 +2,7 @@
   
   # Víctor Henrique Teodoro Dias
 
- <img src="images/foto.png" width=250 alt="Foto">
+ <img src="images/Victor Henrique.png" width=250 alt="Foto">
  
 </div>
 
@@ -157,7 +157,7 @@ Nesse projeto fui responsável na estruturação e estilização de algumas pág
 ### Soft Skills
 
 * <b>Comunicação</b> - Aprimorei minhas habilidades de comunicação ao participar ativamente das discussões durante as reuniões de equipe, promovendo um ambiente colaborativo e facilitando o progresso do projeto de forma eficiente.
-* <b>Proatividade</b> - Identifiquei oportunidades de melhoria no processo de desenvolvimento do projeto e ajudei a implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
+* <b>Proatividade</b> - Utilizei meu conhecimento prévio sobre HTML E CSS e obtive maior facilidade para o desenvolvimento das tarefas, além de identificar oportunidades de melhoria no processo de desenvolvimento do projeto e ajudar a implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
 * <b>Trabalho em equipe</b> - Desenvolvi habilidades ao colaborar de forma eficaz com os membros da equipe, compartilhando ideias e contribuindo para o sucesso do projeto através de uma cooperação harmoniosa e produtiva.
 
 <br>
