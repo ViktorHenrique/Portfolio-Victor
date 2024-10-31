@@ -8,11 +8,13 @@
 
 ## Introdução
 
-Atualmente, sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, localizada em São José dos Campos. Desde o ensino fundamental, despertou minha paixão pela tecnologia e sua aplicação prática, especialmente no âmbito da criação de websites, softwares e jogos.
+Atualmente, sou estudante do 5° semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Prof. Jessen Vidal, em São José dos Campos. Minha paixão pela tecnologia surgiu ainda no ensino fundamental, especialmente na criação de websites, softwares e jogos.
 
-Realizei o Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde me matriculei no curso integrado de Desenvolvimento de Sistemas. Foi lá que tive meu primeiro contato com HTML, CSS, banco de dados e arduíno.
+Concluí o Ensino Médio integrado ao Técnico na ETEC - Machado de Assis, onde cursei Desenvolvimento de Sistemas. Foi durante essa formação que tive meu primeiro contato com HTML, CSS, bancos de dados e Arduíno, solidificando meu interesse pela área.
 
-Desde aquele momento, tenho direcionado meus esforços para aprimorar minhas habilidades no desenvolvimento back-end, explorando linguagens e frameworks como Python e Node.js, além de aprofundar meu conhecimento em banco de dados relacionais. Esse período de aprendizado não só enriqueceu meu conhecimento em programação, mas também desenvolveu minhas soft skills, como capacidade de comunicação, trabalho em equipe e resolução de problemas, reconhecendo sua importância para uma carreira de sucesso. Assim, mantenho-me engajado em um processo contínuo de crescimento, sempre em busca de novos desafios e oportunidades para evoluir no  cenário tecnológico.
+Atualmente, estou atuando como estagiário na Secretaria da Educação de Caçapava, onde presto suporte técnico em TI. Minhas responsabilidades incluem a manutenção e conserto de equipamentos, além de visitas às escolas para resolver problemas técnicos específicos, o que tem ampliado minha experiência em suporte de TI e atendimento ao cliente.
+
+No desenvolvimento de software, tenho direcionado meus estudos para aprimorar habilidades no back-end, com foco em Python e Node.js, além de aprofundar meus conhecimentos em bancos de dados relacionais. Esse período de aprendizado técnico também me permitiu desenvolver soft skills como comunicação, trabalho em equipe e resolução de problemas, essenciais para uma carreira de sucesso. Sigo engajado em um processo contínuo de crescimento e sempre em busca de novos desafios para evoluir na área tecnológica.
 
 <br>
 
@@ -62,7 +64,7 @@ Desde aquele momento, tenho direcionado meus esforços para aprimorar minhas hab
 
 ### Em 2022-1 - Sistema Web para Catálogo de Vagas 
 
-O desafio proposto internamente pela Fatec consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. O desenvolvimento do projeto foi documentado no GitHub, incluindo todos os procedimentos essenciais para garantir a satisfação do cliente. Isso facilita o acesso a todas as informações relevantes de forma clara e direta.
+O desafio proposto internamente pela Fatec, com o professor Antonio Egydio atuando como cliente, consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. O desenvolvimento do projeto foi documentado no GitHub, incluindo todos os procedimentos essenciais para garantir a satisfação do cliente, permitindo acesso claro e direto a todas as informações relevantes.
 
 [Clique aqui](https://github.com/atomofatec/API-FINDAT) para acessar o repositório do projeto.
 
@@ -141,7 +143,7 @@ https://user-images.githubusercontent.com/100942191/172070350-3fd39256-f740-41b3
 
 ### Contribuições pessoais
 
-Nesse projeto fui responsável na estruturação e estilização de algumas páginas utilizando HTML5 e CSS3, além de colaborar na pesquisa de vagas de empregos e cursos disponíveis na internet.
+Nesse projeto, fui responsável pela estruturação e estilização de páginas utilizando HTML5 e CSS3 para criar uma interface acessível e intuitiva. Além disso, trabalhei com JavaScript para implementar interatividade e melhorar a experiência do usuário. Participei também na pesquisa de vagas de emprego e cursos disponíveis na internet, buscando dados relevantes para os usuários da plataforma.
 
 <br>
 
@@ -166,7 +168,7 @@ Nesse projeto fui responsável na estruturação e estilização de algumas pág
 
 ### Em 2022-2 - Sistema de Conciliação Financeira 
 
-O projeto integrador do semestre envolveu uma parceria com a empresa Track Cash, com o objetivo principal de desenvolver uma aplicação desktop voltada para a integração de registros de vendas de diversos canais, sejam eles lojas físicas ou online. O propósito era fornecer aos clientes uma plataforma que lhes permitisse interagir de forma eficiente com as informações de vendas provenientes desses canais.
+O projeto integrador do semestre envolveu uma parceria com a Track Cash, uma empresa especializada em conciliação de vendas e pagamentos para e-commerce, marketplaces e lojas físicas. O objetivo principal do projeto era desenvolver uma aplicação desktop que integrasse registros de vendas de diversos canais, sejam lojas físicas ou online. Dessa forma, a plataforma possibilitaria aos clientes interagir de maneira eficiente com informações de vendas, facilitando a criação de estratégias financeiras mais assertivas e a identificação de gargalos operacionais ao final de cada mês.
 
 [Clique aqui](https://github.com/atomofatec/API-TRACKCASH) para acessar o repositório do projeto.
 
@@ -250,7 +252,7 @@ Durante este projeto, ocupei o cargo de Scrum Master, assegurando a coesão da e
 
 ### Em 2023-1 - Sistema de Gerenciamento de Usuários
 
-O projeto integrador do semestre envolveu uma parceria com a empresa Visiona, com o objetivo de desenvolver um Sistema de Gerenciamento de Usuários baseado em tecnologia de micro serviços. A proposta central consistia em criar uma plataforma que oferecesse funcionalidades de gerenciamento de usuários e serviços de autenticação/autorização utilizando microserviços e integrando-se a uma esteira de CI/CD. Foi priorizado o uso de boas práticas de desenvolvimento orientado a objetos, como SOLID e Clean Code, para garantir a qualidade do código.
+O projeto integrador do semestre envolveu uma parceria com a Visiona, uma empresa especializada em integração de sistemas espaciais e serviços baseados em satélites, atendendo tanto ao Programa Espacial Brasileiro quanto às demandas do mercado. O objetivo central do projeto foi desenvolver um Sistema de Gerenciamento de Usuários baseado em microserviços, com funcionalidades de autenticação e autorização, integrado a uma esteira de CI/CD. Durante o desenvolvimento, foram adotadas boas práticas de programação orientada a objetos, como SOLID e Clean Code, para assegurar a qualidade do código.
 
 [Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
 
@@ -344,7 +346,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ### Em 2023-2 - Sistema de Transação de Crédito para Coleta de Óleo 
 
-Durante o quarto semestre, trabalhamos em um projeto de grande relevância, o sistema circular de produção de saneantes a partir de óleo recuperado. Em parceria com a Greenneat, nosso objetivo era desenvolver uma plataforma capaz de gerenciar créditos concedidos aos parceiros da Greenneat, responsáveis pela coleta em estabelecimentos cadastrados. Esses créditos, posteriormente utilizados na aquisição de saneantes na loja virtual, visavam estimular a reciclagem do óleo de fritura usado. A proposta central era incentivar práticas sustentáveis, contribuindo para um ambiente mais saudável e consciente.
+produção de saneantes a partir de óleo recuperado. Em parceria com a Greenneat, uma empresa voltada para sustentabilidade e reciclagem, com foco em práticas de economia circular para resíduos como óleo usado, nosso objetivo era desenvolver uma plataforma para gerenciar créditos concedidos aos parceiros da Greenneat, responsáveis pela coleta em estabelecimentos cadastrados. Esses créditos, posteriormente utilizados na aquisição de saneantes na loja virtual, visavam estimular a reciclagem de óleo de fritura usado, incentivando práticas sustentáveis e contribuindo para um ambiente mais saudável e consciente.
 
 [Clique aqui](https://github.com/atomofatec/API-GREENNEAT) para acessar o repositório do projeto.
 
@@ -414,7 +416,7 @@ https://github.com/JoaoGRMira/portfolio_joao_mira/assets/103254343/b2c3ea3b-406c
 
 ### Contribuições pessoais
 
-Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços no back-end da aplicação. Fui responsável por criar e implementar a lógica para as funcionalidades relacionadas ao sistema de carteiras, incluindo a gestão de solicitações de retirada de óleo, consultas de saldo e transações de crédito.
+Neste projeto, atuei como desenvolvedor no back-end da aplicação, utilizando Node.js para implementar a lógica das funcionalidades do sistema de carteiras. Fui responsável por criar e estruturar as operações de gestão de carteiras, incluindo solicitações de retirada de óleo, consultas de saldo e transações de crédito. Além disso, utilizei bancos de dados relacionais com PostgreSQL para garantir o armazenamento seguro e eficiente dos dados. Adotei princípios de Clean Code e SOLID para otimizar a legibilidade e manutenção do código.
 
 <br>
 
@@ -438,7 +440,7 @@ Neste projeto, desempenhei o papel de desenvolvedor, concentrando meus esforços
 
 ### Em 2024-1 - Sistema de Gerenciamento de Parceiros
 
-Neste projeto, a empresa Oracle propôs o desenvolvimento de uma plataforma mobile, um sistema de gestão de parceiros. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o progresso das atividades e fornecer relatórios detalhados.
+Neste projeto, a empresa Oracle, líder global em tecnologia da informação e fornecedora de software e soluções para gestão empresarial, propôs o desenvolvimento de uma plataforma mobile para um sistema de gestão de parceiros. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o progresso das atividades e fornecer relatórios detalhados.
 
 [Clique aqui](https://github.com/atomofatec/API-ORACLE) para acessar o repositório do projeto.
 
