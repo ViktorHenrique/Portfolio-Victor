@@ -64,7 +64,7 @@ No desenvolvimento de software, tenho direcionado meus estudos para aprimorar ha
 
 ### Em 2022-1 - Sistema Web para Catálogo de Vagas 
 
-O desafio proposto internamente pela Fatec, com o professor Antonio Egydio atuando como cliente, consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. O desenvolvimento do projeto foi documentado no GitHub, incluindo todos os procedimentos essenciais para garantir a satisfação do cliente, permitindo acesso claro e direto a todas as informações relevantes.
+O desafio proposto internamente pela Fatec, com o professor Antonio Egydio atuando como cliente, consistia na criação de um sistema web voltado para a catalogação de vagas de emprego e cursos profissionalizantes, com ênfase nas áreas de Tecnologia da Informação (TI). O problema identificado era a dificuldade de centralizar e organizar informações sobre oportunidades de trabalho e cursos em um único lugar, tornando a busca pelos usuários mais trabalhosa e menos eficiente. O objetivo era desenvolver uma plataforma que facilitasse a busca e organização de informações para os usuários interessados. O desenvolvimento do projeto foi documentado no GitHub, incluindo todos os procedimentos essenciais para garantir a satisfação do cliente, permitindo acesso claro e direto a todas as informações relevantes.
 
 [Clique aqui](https://github.com/atomofatec/API-FINDAT) para acessar o repositório do projeto.
 
@@ -159,8 +159,8 @@ Nesse projeto, fui responsável pela estruturação e estilização de páginas 
 ### Soft Skills
 
 * <b>Comunicação</b> - Aprimorei minhas habilidades de comunicação ao participar ativamente das discussões durante as reuniões de equipe, promovendo um ambiente colaborativo e facilitando o progresso do projeto de forma eficiente.
-* <b>Proatividade</b> - Utilizei meu conhecimento prévio sobre HTML E CSS e obtive maior facilidade para o desenvolvimento das tarefas, além de identificar oportunidades de melhoria no processo de desenvolvimento do projeto e ajudar a implementar soluções para otimizar a eficiência e qualidade do projeto durante as sprints.
-* <b>Trabalho em equipe</b> - Desenvolvi habilidades ao colaborar de forma eficaz com os membros da equipe, compartilhando ideias e contribuindo para o sucesso do projeto através de uma cooperação harmoniosa e produtiva.
+* <b>Proatividade</b> - Aproveitei minha familiaridade com HTML e CSS para contribuir de forma mais eficiente nas primeiras fases do projeto, além de propor melhorias contínuas. 
+* <b>Trabalho em equipe</b> - Colaborei estreitamente com os membros da equipe para assegurar que todas as etapas do projeto fossem bem coordenadas. Meu comprometimento em ajudar os outros membros da equipe, seja na parte técnica ou nas decisões relacionadas ao projeto, contribuiu para um ambiente colaborativo e para o sucesso do projeto.
 
 <br>
 <hr>
@@ -168,7 +168,7 @@ Nesse projeto, fui responsável pela estruturação e estilização de páginas 
 
 ### Em 2022-2 - Sistema de Conciliação Financeira 
 
-O projeto integrador do semestre envolveu uma parceria com a Track Cash, uma empresa especializada em conciliação de vendas e pagamentos para e-commerce, marketplaces e lojas físicas. O objetivo principal do projeto era desenvolver uma aplicação desktop que integrasse registros de vendas de diversos canais, sejam lojas físicas ou online. Dessa forma, a plataforma possibilitaria aos clientes interagir de maneira eficiente com informações de vendas, facilitando a criação de estratégias financeiras mais assertivas e a identificação de gargalos operacionais ao final de cada mês.
+O projeto integrador do semestre envolveu uma parceria com a Track Cash, uma empresa especializada em conciliação de vendas e pagamentos para e-commerce, marketplaces e lojas físicas. O problema identificado era a dificuldade enfrentada pelos clientes em consolidar e analisar registros de vendas de múltiplos canais, o que dificultava a identificação de gargalos operacionais e a tomada de decisões financeiras estratégicas. O objetivo principal do projeto era desenvolver uma aplicação desktop que integrasse registros de vendas de diversos canais, sejam lojas físicas ou online. Dessa forma, a plataforma possibilitaria aos clientes interagir de maneira eficiente com informações de vendas, facilitando a criação de estratégias financeiras mais assertivas e a identificação de gargalos operacionais ao final de cada mês.
 
 [Clique aqui](https://github.com/atomofatec/API-TRACKCASH) para acessar o repositório do projeto.
 
@@ -242,9 +242,9 @@ Durante este projeto, ocupei o cargo de Scrum Master, assegurando a coesão da e
 
 ### Soft Skills
 
-* <b>Liderança</b> - Inicialmente, enfrentei desafios ao assumir o papel de Scrum Master, especialmente no que diz respeito à liderança eficaz da equipe. No entanto, ao longo do projeto, desenvolvi minhas habilidades de liderança, aprendendo a motivar e orientar os membros da equipe em direção aos objetivos do projeto.
+* <b>Liderança</b> - Assumir o papel de Scrum Master foi desafiador no início, especialmente ao lidar com diferenças de ritmo e comunicação dentro da equipe. Para superar isso, desenvolvi estratégias como reuniões rápidas diárias para alinhar expectativas e garantir que todos estivessem cientes de suas responsabilidades. Um exemplo marcante foi mediar um conflito sobre prioridades de tarefas, ajudando a equipe a redefinir metas e manter o foco nos objetivos do projeto.
 * <b>Organização</b> - Eu me empenhei em garantir que as tarefas fossem distribuídas de forma equitativa, priorizando as atividades de acordo com as necessidades do projeto e garantindo o cumprimento dos prazos estabelecidos.
-* <b>Trabalho sob pressão</b> - Enfrentei situações desafiadoras que exigiam tomar decisões rápidas e eficazes sob pressão em relação a trabalhar com a linguagem Java e lidar com a complexidade do projeto e os prazos das sprints foi um desafio constante. Também tive meu primeiro contato com banco de dados na prática e aprendi a usá-lo. Esta experiência me permitiu desenvolver uma maior resiliência e habilidade para trabalhar sob pressão.
+* <b>Trabalho sob pressão</b> - Ao trabalhar com a linguagem Java e no meu primeiro contato prático com bancos de dados, enfrentei prazos apertados e a necessidade de tomar decisões rápidas. Coordenei a equipe para identificar o problema e sugerir uma solução viável dentro do tempo disponível, assegurando a entrega da funcionalidade sem comprometer outras tarefas.
 
 <br>
 <hr>
@@ -252,7 +252,7 @@ Durante este projeto, ocupei o cargo de Scrum Master, assegurando a coesão da e
 
 ### Em 2023-1 - Sistema de Gerenciamento de Usuários
 
-O projeto integrador do semestre envolveu uma parceria com a Visiona, uma empresa especializada em integração de sistemas espaciais e serviços baseados em satélites, atendendo tanto ao Programa Espacial Brasileiro quanto às demandas do mercado. O objetivo central do projeto foi desenvolver um Sistema de Gerenciamento de Usuários baseado em microserviços, com funcionalidades de autenticação e autorização, integrado a uma esteira de CI/CD. Durante o desenvolvimento, foram adotadas boas práticas de programação orientada a objetos, como SOLID e Clean Code, para assegurar a qualidade do código.
+O projeto integrador do semestre envolveu uma parceria com a Visiona, uma empresa especializada em integração de sistemas espaciais e serviços baseados em satélites, atendendo tanto ao Programa Espacial Brasileiro quanto às demandas do mercado. O problema identificado foi a ausência de uma solução centralizada para gerenciar usuários e controlar acessos com autenticação e autorização, além da necessidade de integrar tais funcionalidades a um ambiente de desenvolvimento ágil e escalável. O objetivo central do projeto foi desenvolver um Sistema de Gerenciamento de Usuários baseado em microserviços, com funcionalidades de autenticação e autorização, integrado a uma esteira de CI/CD. Durante o desenvolvimento, foram adotadas boas práticas de programação orientada a objetos, como SOLID e Clean Code, para assegurar a qualidade do código.
 
 [Clique aqui](https://github.com/atomofatec/API-VISIONA) para acessar o repositório do projeto.
 
@@ -336,9 +336,9 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ### Soft Skills
 
-* <b>Colaboração</b> - Priorizei a colaboração com minha equipe, compartilhando conhecimentos e ideias para superar desafios técnicos relacionados principalmente a responsividade e alcançamos nossos objetivos de projeto de forma eficiente.
+* <b>Colaboração</b> - Durante o desenvolvimento da responsividade no front-end, trabalhei em estreita colaboração com um colega para resolver um problema crítico na renderização de componentes em diferentes dispositivos. Compartilhamos conhecimentos sobre React Native e testamos juntos várias abordagens até alcançar uma solução funcional, o que resultou em uma interface adaptável e eficiente para os usuários.
 * <b>Gestão do tempo</b> - Utilizei técnicas de organização e priorização para otimizar meu tempo de trabalho, garantindo o cumprimento dos prazos e entregas do projeto de maneira eficaz.
-* <b>Resiliência</b> -  Inicialmente, enfrentei dificuldades para me adaptar à linguagem JavaScript. Porém, mantive determinação e, com o aumento dos estudos, persisti na busca por soluções, mesmo diante dos contratempos.
+* <b>Resiliência</b> -  Ao me deparar com dificuldades na adaptação à linguagem JavaScript, especialmente ao lidar com padrões de microserviços, busquei aprimorar minhas habilidades por meio de tutoriais práticos e revisões de código.
 
 <br>
 <hr>
@@ -346,7 +346,7 @@ Durante este projeto, atuei como desenvolvedor, contribuindo tanto para o back-e
 
 ### Em 2023-2 - Sistema de Transação de Crédito para Coleta de Óleo 
 
-produção de saneantes a partir de óleo recuperado. Em parceria com a Greenneat, uma empresa voltada para sustentabilidade e reciclagem, com foco em práticas de economia circular para resíduos como óleo usado, nosso objetivo era desenvolver uma plataforma para gerenciar créditos concedidos aos parceiros da Greenneat, responsáveis pela coleta em estabelecimentos cadastrados. Esses créditos, posteriormente utilizados na aquisição de saneantes na loja virtual, visavam estimular a reciclagem de óleo de fritura usado, incentivando práticas sustentáveis e contribuindo para um ambiente mais saudável e consciente.
+O projeto foi motivado pela necessidade da Oracle de aprimorar a gestão de seus parceiros, que enfrentavam dificuldades na centralização e atualização de informações, além da ausência de uma ferramenta integrada para monitorar atividades e gerar relatórios. Em resposta a esse problema, a Oracle, líder global em tecnologia da informação e fornecedora de software e soluções para gestão empresarial, propôs o desenvolvimento de uma plataforma mobile para um sistema de gestão de parceiros. Este sistema é responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o progresso das atividades e fornecer relatórios detalhados.
 
 [Clique aqui](https://github.com/atomofatec/API-GREENNEAT) para acessar o repositório do projeto.
 
@@ -430,8 +430,8 @@ Neste projeto, atuei como desenvolvedor no back-end da aplicação, utilizando N
 
 ### Soft Skills
 
-* <b>Proatividade</b> - Demonstrei proatividade ao assumir a iniciativa de buscar soluções relacionadas principalmente ao sistema de transação e contribui ativamente para o avanço do projeto.
-* <b>Flexibilidade</b> - Em um ambiente dinâmico de projeto, mostrei-me flexível diante das mudanças de prioridades e metodologias. Os diferentes pontos de vista da equipe causou alguns conflitos internos e tive que me adaptar rapidamente a novos desafios e situações, ajustando minha abordagem e colaborando efetivamente para garantir o progresso contínuo do projeto.
+* <b>Proatividade</b> - Demonstrei proatividade ao identificar uma inconsistência no sistema de transação, relacionada ao cálculo de créditos dos parceiros. Assumi a iniciativa de propor uma solução para corrigir a lógica do sistema e implementei as alterações necessárias. Além disso, busquei referências externas para aprimorar o desempenho das operações de crédito, contribuindo significativamente para o avanço do projeto.
+* <b>Flexibilidade</b> - Mostrei flexibilidade ao lidar com mudanças de prioridades quando o cliente solicitou ajustes no fluxo de transações, que impactaram em nossas entregas. Um dos desafios foi adaptar a estrutura existente sem comprometer as funcionalidades já desenvolvidas. 
 * <b>Organização</b> - Mantive-me organizado ao longo do projeto, gerenciando eficientemente minhas tarefas e recursos. Utilizei ferramentas de planejamento e técnicas de gestão do tempo para garantir que as atividades fossem concluídas dentro dos prazos estabelecidos, contribuindo assim para o sucesso geral do projeto.
 
 <br>
