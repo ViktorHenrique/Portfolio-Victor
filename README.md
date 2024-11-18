@@ -537,3 +537,110 @@ Durante o desenvolvimento deste projeto, concentrei minhas contribuições no ba
 * <b>Trabalho em equipe</b> - Senti dificuldades ao utilizar o MongoDB ao longo do semestre, onde eu não conseguia entender o funcionamento de um banco de dados não relacional na prática. Obtive apoio da minha equipe para me auxiliar e tirar minhas dúvidas e isso resultou em uma maior sinergia e produtividade durante o desenvolvimento do projeto.
 * <b>Adaptabilidade</b> - No início, a equipe encontrou dificuldades para entender o projeto e as funcionalidades essenciais do sistema. Além disso, o cliente solicitou alterações e reestruturações em algumas funções, relacionadas principalmente às expertises. Inicialmente, adotamos uma abordagem que se revelou inadequada e precisou ser ajustada. Ao longo das sprints, tivemos que nos reorganizar, identificar os problemas e desenvolver soluções de maneira correta. Nossa capacidade de adaptação foi crucial para superar esses desafios e manter o progresso contínuo.
 * <b>Proatividade</b> - Desenvolvi minhas tarefas com maior eficiência e facilidade devido à melhoria nos meus estudos em relação ao JavaScript, onde obtive maior domínio da tecnologia e senti mais facilidade para entender o código. Além disso, auxiliei meus companheiros de equipe sempre que necessário, tanto no back-end quanto no front-end, garantindo que todos alcançassem seus objetivos e que o projeto fosse concluído com sucesso.
+
+<br>
+<hr>
+<br>
+
+### Em 2024-2 - Chatbot utilizando IA Generativa
+
+Neste projeto, desenvolvido em parceria com a Dom Rock, uma empresa especializada em soluções de tecnologia para análise de dados e automação de processos empresariais, o desafio consistiu em criar um chatbot baseado em IA generativa capaz de fornecer respostas personalizadas e detalhadas aos usuários. A principal motivação para o desenvolvimento foi a necessidade de oferecer uma solução eficiente para automatizar atendimentos e consultas realizadas pelos clientes da empresa. O objetivo era construir uma aplicação que não apenas compreendesse o contexto das perguntas feitas, mas também respondesse com precisão e se integrasse aos sistemas internos da organização.
+
+A aplicação do chatbot utilizou tecnologias avançadas de processamento de linguagem natural, projetadas para melhorar a interação humano-computador e suportar consultas a bancos de dados internos, proporcionando respostas rápidas e contextualizadas. Antes da implementação, os clientes enfrentavam dificuldades em acessar informações detalhadas de maneira ágil, especialmente em momentos ou condições em que o suporte humano era limitado, resultando em atrasos e maior insatisfação. A solução proposta pela equipe buscou resolver essas limitações ao desenvolver um chatbot que interpretasse e respondesse às consultas com alta precisão, por meio de uma interface intuitiva. 
+
+[Clique aqui](https://github.com/TechForce-ADS/DomRock) para acessar o repositório do projeto.
+
+<br>
+
+video
+
+<br>
+
+### Tecnologias utilizadas
+
+<div>
+  <span>
+    <img align="center" alt="Figma" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"><b>Figma</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do protótipo.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="VS Code" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"><b>VS Code</b> - </img>
+  </span>
+  <span>
+    Utilizada para o desenvolvimento do código do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+     <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b> - </img>
+  </span>
+  <span>
+    Utilizada como linguagem de programação para o desenvolvimento do projeto.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
+  </span>
+  <span>
+    Utilizada para a estruturação do front-end.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"><b>MongoDB</b> - </img>
+  </span>
+  <span>
+    Utilizada para o gerenciamento e armazenamento dos dados.
+  </span>
+</div>
+<br>
+<div>
+  <span>
+    <img align="center" alt="GitHub" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"><b>Github</b> - </img>
+  </span>
+  <span>
+    Utilizada para a hospedagem do código.
+  </span>
+</div>
+
+<br>
+
+### Contribuições pessoais
+
+Durante o desenvolvimento deste projeto, concentrei minhas contribuições no back-end utilizando o JavaScript, desempenhando um papel crucial em várias funcionalidades. Desenvolvi o sistema de cadastro de administradores e funcionários, assegurando o gerenciamento eficiente de usuários. Criei o sistema de retorno das expertises referentes à Track escolhida, permitindo a exibição correta dos dados. Implementei o sistema de exclusão de parceiros com delete em cascata, garantindo a integridade dos dados. Também colaborei no gerenciamento de parceiros, facilitando a atualização das informações. Minhas contribuições integraram efetivamente as diferentes partes do sistema, garantindo sua coesão, segurança e funcionalidade.
+
+<br>
+
+### Hard Skills
+
+* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
+* Elaboração do front-end utilizando React Native - Realizo com autonomia
+* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
+* Modelagem do banco de dados utilizando MongoDB - Realizo com auxílio
+
+<br>
+
+### Soft Skills
+
+* <b>Trabalho em equipe</b> - Senti dificuldades ao utilizar o MongoDB ao longo do semestre, onde eu não conseguia entender o funcionamento de um banco de dados não relacional na prática. Obtive apoio da minha equipe para me auxiliar e tirar minhas dúvidas e isso resultou em uma maior sinergia e produtividade durante o desenvolvimento do projeto.
+* <b>Adaptabilidade</b> - No início, a equipe encontrou dificuldades para entender o projeto e as funcionalidades essenciais do sistema. Além disso, o cliente solicitou alterações e reestruturações em algumas funções, relacionadas principalmente às expertises. Inicialmente, adotamos uma abordagem que se revelou inadequada e precisou ser ajustada. Ao longo das sprints, tivemos que nos reorganizar, identificar os problemas e desenvolver soluções de maneira correta. Nossa capacidade de adaptação foi crucial para superar esses desafios e manter o progresso contínuo.
+* <b>Proatividade</b> - Desenvolvi minhas tarefas com maior eficiência e facilidade devido à melhoria nos meus estudos em relação ao JavaScript, onde obtive maior domínio da tecnologia e senti mais facilidade para entender o código. Além disso, auxiliei meus companheiros de equipe sempre que necessário, tanto no back-end quanto no front-end, garantindo que todos alcançassem seus objetivos e que o projeto fosse concluído com sucesso.
+
