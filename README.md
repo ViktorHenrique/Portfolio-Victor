@@ -552,7 +552,7 @@ A aplicação do chatbot utilizou tecnologias avançadas de processamento de lin
 
 <br>
 
-video
+(Projeto em andamento)
 
 <br>
 
@@ -587,25 +587,16 @@ video
 <br>
 <div>
   <span>
-    <img align="center" alt="React Native" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><b>React Native</b> - </img>
+     <img align="center" alt="Langchain" height="35" width="45" src="https://cdn.scrapfly.io/0.0.736/www/public/svg/doc/integration/langchain-icon.svg?version=0.0.736"><b>LangChain</b> - </img>
   </span>
   <span>
-    Utilizada para a estruturação do front-end.
-  </span>
-</div>
-<br>
-<div>
-  <span>
-    <img align="center" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"><b>PostgreSQL</b> - </img>
-  </span>
-  <span>
-    Utilizada para o gerenciamento e armazenamento dos dados.
+    Utilizado para integrar de modelos de IA.
   </span>
 </div>
 <br>
 <div>
   <span>
-    <img align="center" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"><b>MongoDB</b> - </img>
+    <img align="center" alt="Vuejs" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"><b>Vue.js</b> - </img>
   </span>
   <span>
     Utilizada para o gerenciamento e armazenamento dos dados.
@@ -625,22 +616,22 @@ video
 
 ### Contribuições pessoais
 
-Durante o desenvolvimento deste projeto, concentrei minhas contribuições no back-end utilizando o JavaScript, desempenhando um papel crucial em várias funcionalidades. Desenvolvi o sistema de cadastro de administradores e funcionários, assegurando o gerenciamento eficiente de usuários. Criei o sistema de retorno das expertises referentes à Track escolhida, permitindo a exibição correta dos dados. Implementei o sistema de exclusão de parceiros com delete em cascata, garantindo a integridade dos dados. Também colaborei no gerenciamento de parceiros, facilitando a atualização das informações. Minhas contribuições integraram efetivamente as diferentes partes do sistema, garantindo sua coesão, segurança e funcionalidade.
+Durante o desenvolvimento do chatbot utilizando IA generativa, realizei uma análise detalhada e testes de diferentes estratégias de chunking, explorando e comparando abordagens para identificar métodos que melhorassem a eficiência e a eficácia do processamento de texto no modelo utilizado. Além disso, contribuí diretamente para o front-end da aplicação, desenvolvendo funcionalidades que aprimoraram a experiência do usuário. Fui responsável pela implementação das funções de copiar mensagens, editar mensagens enviadas e ouvir as respostas do chatbot em formato de áudio, assegurando uma interação mais prática e acessível. Outra contribuição foi a realização de testes de temperatura no modelo de IA generativa, onde avaliei diferentes configurações para determinar a temperatura mais adequada ao contexto do projeto.
 
 <br>
 
 ### Hard Skills
 
-* Desenvolvimento utlizando a linguagem JavaScript - Realizo com auxílio
-* Elaboração do front-end utilizando React Native - Realizo com autonomia
-* Modelagem do banco de dados utilizando PostgreSQL - Realizo com autonomia
-* Modelagem do banco de dados utilizando MongoDB - Realizo com auxílio
+* Elaboração do front-end com Vue.js - Realizo com autonomia
+* Uso do ChromaDB - Realizo com auxílio
+* Chunking - Realizo com auxílio
+* Uso do GitHub - Realizo com autonomia
 
 <br>
 
 ### Soft Skills
 
-* <b>Trabalho em equipe</b> - Senti dificuldades ao utilizar o MongoDB ao longo do semestre, onde eu não conseguia entender o funcionamento de um banco de dados não relacional na prática. Obtive apoio da minha equipe para me auxiliar e tirar minhas dúvidas e isso resultou em uma maior sinergia e produtividade durante o desenvolvimento do projeto.
-* <b>Adaptabilidade</b> - No início, a equipe encontrou dificuldades para entender o projeto e as funcionalidades essenciais do sistema. Além disso, o cliente solicitou alterações e reestruturações em algumas funções, relacionadas principalmente às expertises. Inicialmente, adotamos uma abordagem que se revelou inadequada e precisou ser ajustada. Ao longo das sprints, tivemos que nos reorganizar, identificar os problemas e desenvolver soluções de maneira correta. Nossa capacidade de adaptação foi crucial para superar esses desafios e manter o progresso contínuo.
-* <b>Proatividade</b> - Desenvolvi minhas tarefas com maior eficiência e facilidade devido à melhoria nos meus estudos em relação ao JavaScript, onde obtive maior domínio da tecnologia e senti mais facilidade para entender o código. Além disso, auxiliei meus companheiros de equipe sempre que necessário, tanto no back-end quanto no front-end, garantindo que todos alcançassem seus objetivos e que o projeto fosse concluído com sucesso.
+* <b>Trabalho em equipe</b> - Ao desenvolver funcionalidades no front-end, trabalhei de forma integrada com outros membros, assegurando que as soluções implementadas estivessem em harmonia com o restante do sistema. Essa experiência fortaleceu minha capacidade de colaborar de maneira eficiente e produtiva.
+* <b>Adaptabilidade</b> - Ao explorar diferentes estratégias de chunking, enfrentei dificuldades iniciais para compreender e aplicar métodos mais avançados de segmentação de texto. Alguns resultados não atingiram a eficácia esperada, exigindo ajustes contínuos na abordagem e no entendimento técnico do problema. Com o apoio da equipe e através de pesquisa constante, adaptei minha forma de trabalho para superar esses desafios e implementar soluções mais eficientes no modelo.
+* <b>Organização</b> - Com diversas tarefas simultâneas, como explorar estratégias de chunking, realizar testes de temperatura e desenvolver funcionalidades no front-end, manter uma boa organização foi crucial. Gerenciei meu tempo para cumprir prazos e garantir a entrega de cada etapa com qualidade.
 
